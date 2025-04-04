@@ -61,17 +61,20 @@
 ```ts
 1. Navigate in to the directory
 
-2. Run Makeexe.exe
+2. Install the required modules with:
+  > pip install -r Exe.txt
 
-3. Change the name of the file (InfoVirus.py) into anything you want your exe to be named. (You need to write it with the py extension & Optional)
+3. Run Makeexe.exe
 
-4. Your exe file will be ready in /dist
+4. Change the name of the file (InfoVirus.py) into anything you want your exe to be named. (You need to write it with the py extension & Optional)
+
+5. Your exe file will be ready in /dist
 ```
 
-## 🤖 ~ Special Cases
+## 🤖 ~ Open Source!
 ```ts
 
-6. If in Windows,Use the Launcher_Gui.exe for easier setup.(Optional)
+6. I have put all of the py files in this and it does not have any encoding.
 ```
 
 ## ⚙️ ~ Requirements
