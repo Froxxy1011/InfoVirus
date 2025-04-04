@@ -1,0 +1,11 @@
+requests
+psutil
+pyperclip
+wmi
+os
+shutil
+sys
+ctypes
+socket
+platform
+time
