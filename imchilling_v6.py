@@ -36,10 +36,12 @@ class Virus:
             gpu_info = wmi.WMI().Win32_VideoController()
             for gpu in gpu_info:
                  pass
-
-            battery = psutil.sensors_battery()
-
-            pluggedin = psutil.sensors_battery().power_plugged
+            try:
+                battery = psutil.sensors_battery()
+                pluggedin = psutil.sensors_battery().power_plugged
+            except:
+                battery = "Unknown"
+                pluggedin = "Unknown"
 
             if pluggedin == True:
                 pluggedin = "Yes"
